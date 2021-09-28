@@ -6,6 +6,7 @@ employee
 team leads
 manager
 
-
+chair
+table
 
 thank you :)
